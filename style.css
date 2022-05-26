@@ -1,0 +1,19 @@
+.contreiner{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    box-shadow: 1px solid black;
+}
+h1{
+    font-size: 22px;
+    font-style: 'roboto';
+    font-weight: bold;
+    line-height: 28px;
+}
+p{
+    font-size: 14px; 
+    font-weight: lighter;
+    line-height: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
